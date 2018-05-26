@@ -1,2 +1,4 @@
 # hello-world
-Welcoming to the GIT world!
+Welcome to the GIT world!
+Ron here, new to this but gonna become a pro prett soon.
+smiles everywhere.
